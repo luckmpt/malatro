@@ -532,4 +532,5 @@ Las pruebas están organizadas en `src/test/scala/model/` con la misma estructur
 This project is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 Derivado de [malatro-luckmpt](https://github.com/dcc-cc3002/malatro-luckmpt) por CC3002 del DCC.
+
 ---
